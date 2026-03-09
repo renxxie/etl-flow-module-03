@@ -1,0 +1,8 @@
+pymongo
+psycopg2-binary
+pandas
+faker
+apache-airflow[mongo,postgres]
+streamlit
+plotly
+sqlalchemy
